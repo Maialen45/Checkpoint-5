@@ -1,5 +1,0 @@
-# Paquete pip
-
-Cuando instalamos Python tenemos acceso, por defento, a la biblioteca central de Python, que incluye funcionalidades como 'format', que permite la interpolación de cadenas dentro de otras. También hay otras bibliotecas, como la biblioteca math, que podemos importar sin tener que utilizar ninguna otra herramienta. Sin embargo, hay otras muchas bibliotecas, creadas por gente de todo el mundo y con diversas funcionalidades, a las cuales no tendremos acceso a menos que instalemos pip en nuestro sistema. 
-
-Pip (Pip Installs Packages) es un programa de gestión de paquetes que permite gestionar la instalación y administración de diversas bibliotecas en Python. Para instalar pip hay que descargar el archivo get-pip.py de la siguiente página web: https://bootstrap.pypa.io/get-pip.py. Posteriormente, en la terminal hay que abrir la carpeta en la que hayamos guardado el archivo anterior y escribir ```get-pip.py```. Si el programa se ha instalado correctamente, al escribir ```pip --version```, podremos acceder a la versión del programa y comprobar que está instalado. 
